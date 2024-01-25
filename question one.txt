@@ -1,0 +1,11 @@
+16)HTML5 Block-Level Elements
+
+Ans: An HTML Block-Level Element is an element that creates a horizontal boundary block.
+
+It always starts on a new line and takes the full width available.
+
+Here is a list of commonly used block-level elements.
+
+.<h1>.<h6>
+.<p> element
+.<div> element
